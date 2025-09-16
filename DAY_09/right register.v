@@ -1,4 +1,4 @@
-module left_register(
+module right_register(
   input clk,
   input reset,
   input [3:0] din,
